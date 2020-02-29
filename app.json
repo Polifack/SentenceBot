@@ -1,0 +1,5 @@
+{
+  "name": "Sentences Bot",
+  "description": "A Telegram/Twitter Bot",
+  "keywords": ["python", "telegram", "twitter", "postgresql"]
+}

@@ -1,0 +1,18 @@
+{
+    "postgresql":{
+        "host":"psql-host",
+        "user":"psql-user",
+        "password":"psql-password",
+        "port":"psql-port",
+        "name":"db-name"
+    },
+    "telegram":{
+        "token":"telegram-bot-token"
+    },
+    "twitter":{
+        "consumer_key":         "twitter-consumer-key" ,
+        "consumer_secret":      "twitter-consumer-secret",
+        "access_token":         "twitter-access-token",
+        "access_token_secret":  "twitter-access-token-secret"
+    }
+}
